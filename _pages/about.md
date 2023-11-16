@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third year PhD student from [School of IMP](https://imp.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/). My research interest includes laser-driven nuclear physics, nuclear astrophysics, nuclear isomers, and cosmology.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Changbo Fu](https://imp.fudan.edu.cn/b4/d2/c10030a177362/page.htm) of Key Laboratory of Nuclear Physics and Ion Beam Applications from [School of IMP](https://aibp.fudan.edu.cn/), Fudan University. 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [wym's Curriculum Vitae](../assets/Yumiao Wang_CV.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:yumiaowang21@m.fudan.edu.cn) / [Github](https://github.com/Mrwym) / [Wechat](../images/WechatIMG.jpg) / [CSDN](https://blog.csdn.net/qq_55696524?type=blog)
