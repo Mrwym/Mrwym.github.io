@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Machine learning method for C event classification and reconstruction in the active target time-projection chamber"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2023-04-26-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2023-04-26
+venue: 'Volume 1055, October 2023, 168528'
+paperurl: 'https://doi.org/10.1016/j.nima.2023.168528'
+citation: 'H. Wu, Y. Wang, Y. Wang et al., Nuclear Inst. and Methods in Physics Research, A 1055 (2023) 168528.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://doi.org/10.1016/j.nima.2023.168528)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: H. Wu, Y. Wang, Y. Wang et al., Nuclear Inst. and Methods in Physics Research, A 1055 (2023) 168528.
