@@ -1,7 +1,7 @@
 ---
 title: "Feasibility Study of Nuclear Excitation by Electron Capture Using an Electron Beam Ion Trap"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: Front. Phys., 28 July 2023, Sec. Nuclear Physics​, Volume 11 - 2023 
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-07-28
 venue: 'Journal 1'
