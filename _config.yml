@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Yumiao Wang"
   avatar           : "profile.png"
-  bio              : "I am a PhD student in physics from Fudan University."
-  location         : "Location"
+  bio              : "Fudan University"
+  location         : "Shanghai, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=T8TrrZEAAAAJ"
   email            : "yumiaowang21@m.fudan.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Yumiao-Wang-4" # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
