@@ -1,15 +1,8 @@
 ---
-title: "Machine learning method for C event classification and reconstruction in the active target time-projection chamber"
-collection: publications
-permalink: /publication/2023-04-26-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2023-04-26
-venue: 'Volume 1055, October 2023, 168528'
-paperurl: 'https://doi.org/10.1016/j.nima.2023.168528'
-citation: 'H. Wu, Y. Wang, Y. Wang et al., Nuclear Inst. and Methods in Physics Research, A 1055 (2023) 168528.'
+title: "Feasibility of Probing the NEEC Process Using Storage Rings"
+venue: 'Volume 12, October 2023, 168528'
+paperurl: '[doi: 10.3389/fphy.2024.1410076](https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2024.1410076/)'
+citation: 'Y. Yang, Y. Wang, Z. Ma, C. Fu, W. He, and Y. Ma, Front.
+Phys., accepted [doi: 10.3389/fphy.2024.1410076] (2024).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
 [Download paper here](https://doi.org/10.1016/j.nima.2023.168528)
-
-Recommended citation: H. Wu, Y. Wang, Y. Wang et al., Nuclear Inst. and Methods in Physics Research, A 1055 (2023) 168528.
