@@ -1,5 +1,3 @@
 ---
-title: "See my personal Google Scholar page for details."
 ---
-
-
+See my personal Google Scholar page for details.
