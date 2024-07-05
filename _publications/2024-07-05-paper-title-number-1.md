@@ -1,4 +1,4 @@
 ---
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+url: '1'
 ---
 See my personal Google Scholar page for details.
