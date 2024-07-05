@@ -6,5 +6,5 @@ excerpt: 'This paper is about the number 3. The number 4 is left for future work
 date: 2023
 venue: 'Journal 1'
 paperurl: 'https://doi.org/10.3389/fphy.2023.1203401'
-citation: 'Y. Wang, Z. Ma, Y. Yang, C. Fu, W. He, and Y. Ma, Front. Phys. 11, 1203401 (2023).'
+citation: 'Y. Wang, Z. Ma, Y. Yang, C. Fu, W. He, and Y. Ma. (2023). &quot;Front. Phys. 11, 1203401.&quot; <i>Journal 1</i>. 1(3).'
 ---
